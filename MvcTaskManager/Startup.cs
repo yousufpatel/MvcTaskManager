@@ -91,7 +91,7 @@ namespace MvcTaskManager
                 app.UseStatusCodePagesWithReExecute("/Error/{0}");
               //  app.UseExceptionHandler("/Error");
             }
-            app.UseMyMiddleware();
+            //app.UseMyMiddleware();
             app.UseStaticFiles();
             
             app.UseCors(options => options.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
