@@ -1,0 +1,8 @@
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\bin\Debug\netstandard2.0\MvcTaskManager.DomainModels.deps.json
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\bin\Debug\netstandard2.0\MvcTaskManager.DomainModels.dll
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\bin\Debug\netstandard2.0\MvcTaskManager.DomainModels.pdb
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\obj\Debug\netstandard2.0\MvcTaskManager.DomainModels.AssemblyInfoInputs.cache
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\obj\Debug\netstandard2.0\MvcTaskManager.DomainModels.AssemblyInfo.cs
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\obj\Debug\netstandard2.0\MvcTaskManager.DomainModels.dll
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\obj\Debug\netstandard2.0\MvcTaskManager.DomainModels.pdb
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.DomainModels\obj\Debug\netstandard2.0\MvcTaskManager.DomainModels.csprojAssemblyReference.cache

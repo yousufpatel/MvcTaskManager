@@ -1,0 +1,11 @@
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\bin\Debug\netstandard2.0\MvcTaskManager.ViewModels.deps.json
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\bin\Debug\netstandard2.0\MvcTaskManager.ViewModels.dll
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\bin\Debug\netstandard2.0\MvcTaskManager.ViewModels.pdb
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\bin\Debug\netstandard2.0\MvcTaskManager.DomainModels.dll
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\bin\Debug\netstandard2.0\MvcTaskManager.DomainModels.pdb
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.csprojAssemblyReference.cache
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.AssemblyInfoInputs.cache
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.AssemblyInfo.cs
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.csproj.CopyComplete
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.dll
+C:\dotnetadp\parac\dotnetcore\MvcTaskManager\MvcTaskManager.ViewModels\obj\Debug\netstandard2.0\MvcTaskManager.ViewModels.pdb

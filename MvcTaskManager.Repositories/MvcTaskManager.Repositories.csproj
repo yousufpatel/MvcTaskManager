@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MvcTaskManager.DomainModels\MvcTaskManager.DomainModels.csproj" />
+    <ProjectReference Include="..\MvcTaskManager.ViewModels\MvcTaskManager.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
