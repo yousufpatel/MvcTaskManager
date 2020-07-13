@@ -37,9 +37,11 @@ namespace MvcTaskManager.Repositories.Mocks
                                           ClientLocation = _dbContext.ClientLocations.Where(x => x.ClientLocationID == item.ClientLocationID).FirstOrDefault(),
                                           Status = item.Status
 
-                                      }).ToListAsync();
-                           
-                return ProjectsList;            
+                                      }).Take<ProjectViewModel>(1).ToListAsync();
+
+           
+
+            return ProjectsList;            
         }
 
         public async Task<ResponseViewModel> AddProject(ProjectViewModel project)
